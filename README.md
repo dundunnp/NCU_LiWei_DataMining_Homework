@@ -1,0 +1,2 @@
+# NCU_LiWei_DataMining_Homework
+南昌大学李伟老师2022年下学期数据挖掘课程作业
